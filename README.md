@@ -130,7 +130,7 @@ In the dataset directory:
 
 YOLOv3, without a doubt, is one of the most impactful models in computer vision history. It created many opportunities for people in the field to use it to their advantage and researchers to get a new point of view. A hands-on project on YOLOv3 gave me a great understanding of convolution neural networks in general and many state-of-the-art methods. Moreover, I want to push it further by combining it with an LSTM(long short-term memory) algorithm like Deep SORT and create a object and pedestrian tracker. All-in-all I hope others find this project useful and make use of this in their journey. 
 
-##REQUIREMENT:
+## REQUIREMENT:
 Torch==1.8.1
 
 numpy
